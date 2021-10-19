@@ -1,10 +1,10 @@
-7 Projetos em javascript em 7 dias realizada pela B7Web!
+<h1><strong>7 Projetos em javascript em 7 dias realizada pela B7Web!</h1></strong>
 
 
-#Projeto 1 - Bateria
+#<h1>Projeto 1 - Bateria</h1>
 ![1](https://user-images.githubusercontent.com/63603331/137951641-973c5450-1121-4e96-b0d9-dec6c13fab22.PNG)
 
-#projeto 2 - Relógio
+#<h1>projeto 2 - Relógio</h1>
 ![2](https://user-images.githubusercontent.com/63603331/137951695-13fb03cf-728b-4ece-b254-321de6f7f08c.PNG)
 
 
