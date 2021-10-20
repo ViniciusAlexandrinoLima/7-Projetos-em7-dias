@@ -7,8 +7,10 @@
 #<h1>projeto 2 - Relógio</h1>
 ![2](https://user-images.githubusercontent.com/63603331/137951695-13fb03cf-728b-4ece-b254-321de6f7f08c.PNG)
 
+#<h1>Projeto 3 - Clima</h1>
+![2](https://user-images.githubusercontent.com/63603331/137962284-18c8b625-99aa-4b61-909f-31fd086ce4f9.PNG)
 
-#Projeto 3 - Clima
+
 #Projeto 4 - Jogo da velha
 #Projeto 5 - Quadro de desenho
 #Projeto 6 - Quiz
