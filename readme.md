@@ -17,4 +17,6 @@
 ![1](https://user-images.githubusercontent.com/63603331/138153548-dcff3fdf-8ee1-4dd5-8932-1a9003cc4c2b.PNG)
 
 #<h1>Projeto 6 - Quiz</h1>
+![1](https://user-images.githubusercontent.com/63603331/138309146-c2a5b0cb-5a1b-42bb-bfd2-df85733d6ddb.PNG)
+
 #<h1>Projeto 7 - Drag and Drop (Arrasta e solta)</h1>
